@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nome": "teste",
+        "localizacao": "amazonia",
+        "medicoes": [
+            {
+                "nivel_cm": 200.0,
+                "data_hora": "10/11/2026 09:48:55"
+            },
+            {
+                "nivel_cm": 45.0,
+                "data_hora": "10/11/2026 11:28:39"
+            },
+            {
+                "nivel_cm": 166.0,
+                "data_hora": "12/11/2026 21:50:26"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "tesdte",
+        "localizacao": "a",
+        "medicoes": []
+    },
+    {
+        "id": 3,
+        "nome": "Teste Final",
+        "localizacao": "São Paulo",
+        "medicoes": [
+            {
+                "nivel_cm": 40.0,
+                "data_hora": "16/11/2026 08:32:53"
+            },
+            {
+                "nivel_cm": 70.0,
+                "data_hora": "16/11/2026 08:32:59"
+            }
+        ]
+    }
+]
