@@ -57,6 +57,8 @@ O desenvolvimento do projeto envolveu decisões, adaptações, integração, tes
 
 **Disciplinas:** Python e Problem Solving
 
-**Integrantes:** [Preencher nomes e RMs]
+**Integrantes:** Murillo Serrano - 569296
+Nicolas Prestelo - 570785
+Jonathan Josué - 569810
 
-**Data:** [Preencher]
+**Data:** Nov/2026
